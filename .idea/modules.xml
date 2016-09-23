@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/slack-client-for-idea.iml" filepath="$PROJECT_DIR$/.idea/modules/slack-client-for-idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/slack-client-for-idea_main.iml" filepath="$PROJECT_DIR$/.idea/modules/slack-client-for-idea_main.iml" group="slack-client-for-idea" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/slack-client-for-idea_test.iml" filepath="$PROJECT_DIR$/.idea/modules/slack-client-for-idea_test.iml" group="slack-client-for-idea" />
+    </modules>
+  </component>
+</project>

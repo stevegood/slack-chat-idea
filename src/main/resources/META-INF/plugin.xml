@@ -1,0 +1,32 @@
+<idea-plugin version="2">
+    <id>rocks.stevegood.idea.slack</id>
+    <name>Slack Chat</name>
+    <version>1.0.0</version>
+    <vendor email="sgood@lanctr.com" url="http://stevegood.rocks">Steve Good</vendor>
+
+    <description><![CDATA[
+        <h1>Slack Chat</h1>
+        <p>A simple chat client for Slack.</p>
+    ]]></description>
+
+    <change-notes><![CDATA[
+       Release 1.0.0: Initial release<br/>
+    ]]></change-notes>
+
+    <idea-version since-build="2016.2"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="Slack Channels" secondary="true" anchor="right"
+                    factoryClass="rocks.stevegood.idea.slack.SlackChannelToolWindowFactory"/>
+    </extensions>
+
+    <application-components>
+    </application-components>
+
+    <project-components>
+    </project-components>
+
+    <actions>
+    </actions>
+
+</idea-plugin>
